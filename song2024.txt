@@ -1,0 +1,2 @@
+Hello, I am the first string
+Hello, I am the second string
