@@ -4,4 +4,4 @@ Hi, I an the third string
 Hi, I am the fourth string
 
 Working with Git GUI
-That's why we added here two strings!!
+That's why we added here two strings!!!!
