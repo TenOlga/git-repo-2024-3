@@ -2,3 +2,6 @@ Hello, I am the first string
 Hello, I am the second string
 Hi, I an the third string
 Hi, I am the fourth string
+
+Working with Git GUI
+That's why we added here two strings!!
