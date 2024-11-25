@@ -3,8 +3,4 @@ Hello, I am the second string
 Hi, I an the third string
 Hi, I am the fourth string
 
-That line I've added to push into master
-And then to check "revert" command
------------------------------------
------------------------------------
 
