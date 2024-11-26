@@ -3,5 +3,7 @@ Hello, I am the second string
 Hi, I an the third string
 Hi, I am the fourth string
 
-Deleted two lines from Feature brunch
-For Non Fast forward merge
+6
+7
+8
+9
