@@ -7,3 +7,5 @@ Hi, I am the fourth string
 7
 8
 9
+
+I am info for stash from feature
